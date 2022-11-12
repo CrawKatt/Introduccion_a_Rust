@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Rust_el_lenguaje_de_programacion"
+name = "operadores"
 version = "0.1.0"
