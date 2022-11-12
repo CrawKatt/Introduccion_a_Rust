@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/constantes_en_rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hola_mundo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leer_por_consola/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shadowing_rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tipos_de_datos/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables_en_rust/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/shadowing_rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/leer_por_consola/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hola_mundo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/constantes_en_rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tipos_de_datos/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variables_en_rust/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
