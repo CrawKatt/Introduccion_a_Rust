@@ -1,0 +1,1 @@
+/home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/vectores_parte_2/target/debug/vectores_parte_2: /home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/vectores_parte_2/src/main.rs
