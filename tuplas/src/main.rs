@@ -6,7 +6,7 @@ fn main() {
     // Definimos nuestra primera tupla
 
     // En las tuplas ya no hacemos uso de Corchetes "[]"
-                            // 0     1     2
+               // 0     1     2
     let tupla = (10, false, 5.5); // Hacemos uso de Paréntesis "()"
     // La principal diferencia entre una tupla y un Arreglo/Array
     // es que las tuplas pueden almacenar diferentes tipos de datos,
