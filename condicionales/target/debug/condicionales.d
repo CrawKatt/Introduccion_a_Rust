@@ -1,0 +1,1 @@
+/home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/condicionales/target/debug/condicionales: /home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/condicionales/src/main.rs
