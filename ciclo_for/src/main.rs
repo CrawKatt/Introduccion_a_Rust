@@ -46,6 +46,7 @@ fn main() {
 
         } else if numero % 5 == 0 {
             println!("Buzz");
+
         } else {
             println!("{}", numero);
         }
