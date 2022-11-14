@@ -9,7 +9,7 @@ Se recomienda seguir la guía en el siguiente orden:
 
 4.- Shadowing
 
-5.- Leer por Teclado
+5.- Leer por Consola
 
 6.- Tipos de Datos
 
