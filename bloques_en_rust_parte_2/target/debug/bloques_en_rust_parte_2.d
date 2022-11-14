@@ -1,0 +1,1 @@
+/home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/bloques_en_rust_parte_2/target/debug/bloques_en_rust_parte_2: /home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/bloques_en_rust_parte_2/src/main.rs
