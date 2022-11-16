@@ -20,7 +20,5 @@ fn main() {
             //_ => println!("{}", numero) // Des comenta esta linea
             // para ver resultado re factorizado
         }
-
     }
-
 }
