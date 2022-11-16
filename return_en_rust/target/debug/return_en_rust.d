@@ -1,0 +1,1 @@
+/home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/return_en_rust/target/debug/return_en_rust: /home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/return_en_rust/src/main.rs
