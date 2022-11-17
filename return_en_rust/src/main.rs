@@ -17,9 +17,11 @@ fn factorial(numero: u32) -> u32 {
         factorial(numero - 1) * numero
     }
 }
-
+// Llamamos a la función factorial en nuestra función main
 fn main() {
-    let resultado = factorial(5);
+    let resultado = factorial(5); // Asignamos el numero del cual
+    // queramos saber su factorial
 
+    // Imprimimos el Resultado
     println!("El factorial es: {}", resultado);
 }
