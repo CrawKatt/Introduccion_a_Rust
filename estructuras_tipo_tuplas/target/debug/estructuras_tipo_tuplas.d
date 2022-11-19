@@ -1,0 +1,1 @@
+/home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/estructuras_tipo_tuplas/target/debug/estructuras_tipo_tuplas: /home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/estructuras_tipo_tuplas/src/main.rs
