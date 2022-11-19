@@ -45,7 +45,7 @@ Se recomienda seguir la guía en el siguiente orden:
 
 22.- Estructuras
 
-23.- Ownership (Parte 1 y 2)
+23.- Ownership
 
 24.- Métodos
 
