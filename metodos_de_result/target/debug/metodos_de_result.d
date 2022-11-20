@@ -1,0 +1,1 @@
+/home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/metodos_de_result/target/debug/metodos_de_result: /home/shinobi/CLionProjects/Rust_el_lenguaje_de_programacion/metodos_de_result/src/main.rs
