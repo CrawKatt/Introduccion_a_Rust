@@ -74,7 +74,7 @@ fn main() {
     // Existe otro método llamado expect que al igual que
     // unwrap y unwrap_or, intentará obtener lo que la tupla Some almacene
 
-    // En caso la tupla no posea valor alguno y se ejecute el panic,
+    // En caso la Tupla no posea valor alguno y se ejecute el panic,
     // entonces podemos pasar como argumento, una Cadena de caracteres
     // la cual describa mas en detalle cual fue el error
     // let valor = resultado.expect("Se esperaba un String");
