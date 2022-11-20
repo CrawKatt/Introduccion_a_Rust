@@ -22,7 +22,7 @@ fn main() {
 
     // unwrap, unwrap_or y expect
 
-    let resultado = division(10, 0);
+    let resultado = division(10, 2);
 
     let valor = resultado.expect("No es posible dividir por cero!!!");
     println!("El resultado es: {}", valor);
